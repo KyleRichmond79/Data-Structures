@@ -1,0 +1,11 @@
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\bin\Debug\netcoreapp2.0\NestedForLoops.deps.json
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\bin\Debug\netcoreapp2.0\NestedForLoops.runtimeconfig.json
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\bin\Debug\netcoreapp2.0\NestedForLoops.runtimeconfig.dev.json
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\bin\Debug\netcoreapp2.0\NestedForLoops.dll
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\bin\Debug\netcoreapp2.0\NestedForLoops.pdb
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\obj\Debug\netcoreapp2.0\NestedForLoops.csprojResolveAssemblyReference.cache
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\obj\Debug\netcoreapp2.0\NestedForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\obj\Debug\netcoreapp2.0\NestedForLoops.AssemblyInfoInputs.cache
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\obj\Debug\netcoreapp2.0\NestedForLoops.AssemblyInfo.cs
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\obj\Debug\netcoreapp2.0\NestedForLoops.dll
+C:\Users\Kyler\source\repos\Data-Structures\NestedForLoops\NestedForLoops\NestedForLoops\obj\Debug\netcoreapp2.0\NestedForLoops.pdb
