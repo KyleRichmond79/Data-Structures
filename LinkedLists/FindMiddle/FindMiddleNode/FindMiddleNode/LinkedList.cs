@@ -45,21 +45,21 @@ namespace FindMiddleNode
         public void FindCenterNode()
         {
             Node runner = Next;
-            double counter = 1;
-            while(runner.Next != null)
+            Node walker = Next;
+            int counter = 1;
+
+            while (runner.Next != null)
             {
+                walker = walker.Next;
                 runner = runner.Next;
+
+                if (runner.Next != null)
+                {
+                    runner = runner.Next;
+                }
                 counter++;
             }
-            counter = Math.Floor((counter / 2));
-            Console.WriteLine(counter);
-            runner = Next;
-            while (counter > 1)
-            {
-                runner = runner.Next;
-                counter--;
-            }
-            Console.WriteLine($"the middle node has the data {runner.Data}.");
+            Console.WriteLine($"Node #{ counter } is the center node and has the value: { walker.Data }.");
         }
     }
 }
